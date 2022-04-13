@@ -1,0 +1,107 @@
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Pipelines.Sockets.Unofficial.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\StackExchange.Redis.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.IO.Pipelines.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Channels.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Pipelines.Sockets.Unofficial.xml
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\StackExchange.Redis.xml
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.xml
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.IO.Pipelines.xml
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.xml
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Channels.xml
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\Pipelines.Sockets.Unofficial.dll
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\StackExchange.Redis.dll
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.dll
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.IO.Pipelines.dll
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.dll
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.dll
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Channels.dll
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\Pipelines.Sockets.Unofficial.xml
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\StackExchange.Redis.xml
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.xml
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.IO.Pipelines.xml
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.xml
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.xml
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Channels.xml
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+\\vmware-host\Shared Folders\shareFolder\VisualStudio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\Pipelines.Sockets.Unofficial.dll
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\StackExchange.Redis.dll
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.dll
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.PerformanceCounter.dll
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.IO.Pipelines.dll
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.dll
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.dll
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Channels.dll
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\Pipelines.Sockets.Unofficial.xml
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\StackExchange.Redis.xml
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Buffers.xml
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.IO.Pipelines.xml
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Memory.xml
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Numerics.Vectors.xml
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Channels.xml
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Threading.Tasks.Extensions.xml
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\CNCNetLib.dll
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\Sprache.dll
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\Sprache.xml
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\Interop.EZNCAUTLib.dll
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\Interop.EZSOCKETNCLib.dll
+Z:\VMSharedFolder\VisualStudio\ConsoleApp1\ConsoleApp1\bin\Debug\FocasLib.dll
